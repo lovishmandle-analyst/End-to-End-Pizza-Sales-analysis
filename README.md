@@ -19,7 +19,8 @@ SUM([total_price]) / COUNTD([order_id])
 Avg Pizza per order
 SUM([quantity]) / COUNTD([order_id])
 
-DashBoard link : - <a https://public.tableau.com/views/PizzaSalesReportAnalysis_17695963176440/PizzaSalesReportAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link >Dashboard</a>
+Explore the live [DASHBOARD](https://public.tableau.com/views/PizzaSalesReportAnalysis_17695963176440/PizzaSalesReportAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) on Tableau Public.
+
 
 
 
