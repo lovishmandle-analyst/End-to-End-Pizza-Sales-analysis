@@ -30,8 +30,8 @@ Predictability means you should run operations and marketing like a cadence plan
 ## Solution
   Build a simple monthly playbook
 
-## Pre-plan staffing and prep for peak months (stock, labor scheduling, delivery capacity)
-## Run targeted promos in softer months focused on AOV (bundles) instead of discounting core items
+  a. Pre-plan staffing and prep for peak months (stock, labor scheduling, delivery capacity)
+  b. Run targeted promos in softer months focused on AOV (bundles) instead of discounting core items
 
 2) Category mix is well balanced, Classic leads revenue
 
@@ -42,8 +42,8 @@ Because categories are close in revenue, improvements in any one category can mo
 ## Solution
    Menu engineering by category
 
-## Keep Classic as the “upsell engine” (default prompts for size upgrades, add-ons, bundles)
-## Use Supreme/Chicken/Veggie for variety and limited-time rotations to avoid cannibalizing Classic
+  a. Keep Classic as the “upsell engine” (default prompts for size upgrades, add-ons, bundles)
+  b. Use Supreme/Chicken/Veggie for variety and limited-time rotations to avoid cannibalizing Classic
 
 3) A small set of pizzas drives most of the money (portfolio concentration)
 
@@ -54,9 +54,8 @@ The menu is probably larger than what drives profit and operational simplicity. 
 
 ## Solution
   Simplify and spotlight
-
-## Create a “Core 20” list (the items driving ~80% of revenue) and ensure they’re always perfectly executed (inventory, prep, photo quality, menu placement)
-## For low performers, either reprice, rename/reposition, or rotate out seasonally (don’t permanently kill everything at once; test)
+a. Create a “Core 20” list (the items driving ~80% of revenue) and ensure they’re always perfectly executed (inventory, prep, photo quality, menu placement)
+b.  For low performers, either reprice, rename/reposition, or rotate out seasonally (don’t permanently kill everything at once; test)
 
 4) Demand is highly time-bound (clear peak hours)
  
@@ -66,9 +65,9 @@ Your constraint is probably throughput at peaks (kitchen capacity, delivery, fro
 ## Solution
 Operational “peak hour system”
 
-## Staff to the heatmap, not to intuition
-## Pre-prep ingredients for peak windows, and reduce on-the-fly complexity by promoting “fast lane” best sellers during rush
-## Introduce peak-only bundles that are operationally easy (e.g., 2-pizza + drink with limited customization)
+a. Staff to the heatmap, not to intuition
+b. Pre-prep ingredients for peak windows, and reduce on-the-fly complexity by promoting “fast lane” best sellers during rush
+c. Introduce peak-only bundles that are operationally easy (e.g., 2-pizza + drink with limited customization)
 
 5) Biggest lever is likely AOV and items-per-order (not just more traffic)
 
@@ -80,10 +79,10 @@ Even a small AOV lift (e.g., 3–5%) can create a meaningful annual revenue delt
 ## Solution
 Practical AOV uplift tactics (low risk)
 
-## Default size anchoring: show L as “Most popular” and M as “Best value,” prompt upgrade at checkout
-## Bundles: “Pizza + side + drink” (price it to be a no-brainer vs à la carte)
-## Add-on prompts: extra cheese, toppings, garlic bread, sauces (keep it to 2–3 prompts to avoid friction)
-## Price architecture: ensure price gaps between sizes make upgrading feel efficient (small gap from M→L)
+a.  Default size anchoring: show L as “Most popular” and M as “Best value,” prompt upgrade at checkout
+b.  Bundles: “Pizza + side + drink” (price it to be a no-brainer vs à la carte)
+c. Add-on prompts: extra cheese, toppings, garlic bread, sauces (keep it to 2–3 prompts to avoid friction)
+d. Price architecture: ensure price gaps between sizes make upgrading feel efficient (small gap from M→L)
 
 
 
