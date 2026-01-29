@@ -19,7 +19,7 @@ SUM([total_price]) / COUNTD([order_id])
 Avg Pizza per order
 SUM([quantity]) / COUNTD([order_id])
 
-Explore the live [DASHBOARD](https://public.tableau.com/views/PizzaSalesReportAnalysis_17695963176440/PizzaSalesReportAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) on Tableau Public.
+## Explore the live [DASHBOARD](https://public.tableau.com/views/PizzaSalesReportAnalysis_17695963176440/PizzaSalesReportAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) on Tableau Public.
 
 ## My ANALYSIS
 1) The business is doing strong volume with stable demand patterns.You have 21,350 unique orders and total revenue of 817,860.05 in the period covered by the file. That’s a healthy base to optimize because small conversion and upsell gains will compound quickly across thousands of orders.Revenue and order volume are seasonal but predictable.
